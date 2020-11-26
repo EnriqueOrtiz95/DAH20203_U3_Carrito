@@ -1,0 +1,7 @@
+{
+  "name": "eje09-1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
