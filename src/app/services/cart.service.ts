@@ -20,13 +20,6 @@ export class CartService {
       qtyprod: 0,
       date: new Date()
     };
-
-    /*this.cart.products = [];
-    this.cart.subtotal = 0;
-    this.cart.iva = 0;
-    this.cart.total = 0;
-    this.cart.date = new Date();
-    this.cart.qtyprod = 0;*/
   }
 
   public getCart(): Cart {

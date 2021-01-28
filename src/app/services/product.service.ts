@@ -11,26 +11,26 @@ export class ProductService {
   constructor() {
 
     this.products.push({
-      name: 'Perro',
-      photo: 'https://picsum.photos/id/239/200/300',
-      description: 'Perrito bonito',
-      price: 190.00,
+      name: 'Laptop',
+      photo: 'https://cdn.alzashop.com/ImgW.ashx?fd=f3&cd=ADD19n10d',
+      description: 'Laptop Alienware',
+      price: 64000.00,
       quantity: 1
     });
 
     this.products.push({
-      name: 'Algo',
-      photo: 'https://picsum.photos/id/231/200/300',
-      description: 'Perrito bonito',
-      price: 110.00,
+      name: 'Consola de videojuegos',
+      photo: 'https://i.blogs.es/d2a441/xboxonex/450_1000.jpg',
+      description: 'Xbox',
+      price: 4000.00,
       quantity: 1
     });
 
     this.products.push({
-      name: 'Algo más',
-      photo: 'https://picsum.photos/id/238/200/300',
-      description: 'Perrito bonito',
-      price: 120.00,
+      name: 'Manga',
+      photo: 'https://static.wikia.nocookie.net/shingekinokyojin/images/d/db/Volume_1_Cover.png/revision/latest?cb=20191030213927',
+      description: 'Shingeki no Kyojin Manga',
+      price: 2500.00,
       quantity: 1
     });
   }
